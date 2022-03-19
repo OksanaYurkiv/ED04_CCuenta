@@ -6,7 +6,8 @@ package cuentas;
  * Representa cuenta de usuario con 
  * 
  * @param nombre, cuenta, saldo, tipoInteros
- * 
+ *
+ *
  * @method geters y setters
  * @method retirar() @exception Exception
  * @method  ingresar() @exception Exception
