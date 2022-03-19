@@ -11,7 +11,7 @@ public class Main {
     }
     
     private static double operativa_cuenta (CCuenta cuenta) {
-    	float cantidad;
+    	
     	saldoActual = cuenta.estado();
     	
         System.out.println("El saldo actual es "+ saldoActual );
